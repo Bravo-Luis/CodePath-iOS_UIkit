@@ -40,8 +40,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/91937163/153364676-9a368fb1-fe3a-47c8-9b95-8c9812bbba8a.gif)
-" width=250><br>
+<img src=![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/91937163/153364676-9a368fb1-fe3a-47c8-9b95-8c9812bbba8a.gif) width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
