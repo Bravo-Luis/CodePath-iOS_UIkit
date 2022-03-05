@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20034" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="TmZ-2i-JzG">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="TmZ-2i-JzG">
     <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20017"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
@@ -27,12 +27,12 @@
                                         <fragment content="Login">
                                             <attributes>
                                                 <color key="NSColor" red="0.22126910089999999" green="0.63074165579999997" blue="0.94766396279999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                                <font key="NSFont" size="25" name=".SFNS-Regular"/>
+                                                <font key="NSFont" metaFont="system" size="25"/>
                                             </attributes>
                                         </fragment>
                                     </attributedString>
                                     <color key="baseForegroundColor" red="0.2184937894" green="0.62775844339999998" blue="0.95129173990000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                    <color key="baseBackgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <color key="baseBackgroundColor" systemColor="systemBackgroundColor"/>
                                 </buttonConfiguration>
                                 <connections>
                                     <action selector="onLoginButton:" destination="TmZ-2i-JzG" eventType="touchUpInside" id="gYB-Ee-EMC"/>
@@ -138,7 +138,7 @@
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="GUG-ew-LvX" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-3560.8000000000002" y="-117.39130434782609"/>
+            <point key="canvasLocation" x="-3580" y="-138"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="zIs-r5-ock">
@@ -160,7 +160,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xby-K8-aWk" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-4477" y="-117"/>
+            <point key="canvasLocation" x="-4402" y="-138"/>
         </scene>
     </scenes>
     <resources>
